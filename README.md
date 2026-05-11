@@ -22,3 +22,5 @@ Run the bot:
 
 Bash
 python telegram_bot.py
+
+![Telegram Bot Notification Screenshot](bot_screenshot.png)
